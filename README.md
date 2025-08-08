@@ -4,4 +4,4 @@ CVPR 2024: WeCLIP. "Frozen ClIP: A Strong Bakbone for Weakly Supervised Semantic
 
 TPAMI 2025: WeCLIP+. "Frozen ClIP: A Strong Bakbone for Weakly Supervised Semantic Segmentation".
 
-Please refer to the README file in "WeCLIP" and "WeCLIP+" for the training and inference details. 
+With DDP code and Prompt Learner for WeCLIP+
