@@ -1,0 +1,11 @@
+*.zip
+*.pt
+train2014
+val2014
+WeCLIP+/work_dir_coco
+WeCLIP+/wandb
+*.gz
+MSCOCO
+coco_seg_anno
+WeCLIP+/results
+WeCLIP+/last_test
